@@ -1,0 +1,12 @@
+2019-12-28 16:47:26,623 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "POST /session/6399eec1cc9147b9191de8c1cd6e3434/element/0.04365519591507594-1/click HTTP/1.1" 200 72
+2019-12-28 16:47:26,631 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 16:47:26,631 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/element {"sessionId": "6399eec1cc9147b9191de8c1cd6e3434", "value": ".gwx-xm-dwz .checkCartAll", "using": "css selector"}
+2019-12-28 16:47:26,750 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "POST /session/6399eec1cc9147b9191de8c1cd6e3434/element HTTP/1.1" 200 102
+2019-12-28 16:47:26,750 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 16:47:26,750 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - GET http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/element/0.9997526228766609-1/selected {"id": "0.9997526228766609-1", "sessionId": "6399eec1cc9147b9191de8c1cd6e3434"}
+2019-12-28 16:47:26,833 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "GET /session/6399eec1cc9147b9191de8c1cd6e3434/element/0.9997526228766609-1/selected HTTP/1.1" 200 72
+2019-12-28 16:47:26,833 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 16:47:26,833 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/element {"sessionId": "6399eec1cc9147b9191de8c1cd6e3434", "value": "\u53bb\u7ed3\u7b97", "using": "partial link text"}
+2019-12-28 16:47:26,948 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "POST /session/6399eec1cc9147b9191de8c1cd6e3434/element HTTP/1.1" 200 102
+2019-12-28 16:47:26,948 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 16:47:26,948 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/element/0.9997526228766609-2/click {"id": "0.9997526228766609-2", "sessionId": "6399eec1cc9147b9191de8c1cd6e3434"}

@@ -1,0 +1,15 @@
+2020-03-08 20:00:35,059 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://127.0.0.1:61365 "POST /session/c5f4d6e6e30c70604e88102e6e04db1e/url HTTP/1.1" 200 72
+2020-03-08 20:00:35,061 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2020-03-08 20:00:35,061 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:61365/session/c5f4d6e6e30c70604e88102e6e04db1e/element {"value": "\u6211\u7684\u8ba2\u5355", "sessionId": "c5f4d6e6e30c70604e88102e6e04db1e", "using": "partial link text"}
+2020-03-08 20:00:35,084 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://127.0.0.1:61365 "POST /session/c5f4d6e6e30c70604e88102e6e04db1e/element HTTP/1.1" 200 102
+2020-03-08 20:00:35,084 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2020-03-08 20:00:35,084 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:61365/session/c5f4d6e6e30c70604e88102e6e04db1e/element/0.6884707585817249-1/click {"id": "0.6884707585817249-1", "sessionId": "c5f4d6e6e30c70604e88102e6e04db1e"}
+2020-03-08 20:00:35,167 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://127.0.0.1:61365 "POST /session/c5f4d6e6e30c70604e88102e6e04db1e/element/0.6884707585817249-1/click HTTP/1.1" 200 72
+2020-03-08 20:00:35,167 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2020-03-08 20:00:35,168 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - GET http://127.0.0.1:61365/session/c5f4d6e6e30c70604e88102e6e04db1e/window_handles {"sessionId": "c5f4d6e6e30c70604e88102e6e04db1e"}
+2020-03-08 20:00:36,111 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://127.0.0.1:61365 "GET /session/c5f4d6e6e30c70604e88102e6e04db1e/window_handles HTTP/1.1" 200 157
+2020-03-08 20:00:36,111 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2020-03-08 20:00:36,111 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:61365/session/c5f4d6e6e30c70604e88102e6e04db1e/window {"sessionId": "c5f4d6e6e30c70604e88102e6e04db1e", "name": "CDwindow-6C64472DD3989726212E1E8E70DE3D10"}
+2020-03-08 20:00:36,124 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://127.0.0.1:61365 "POST /session/c5f4d6e6e30c70604e88102e6e04db1e/window HTTP/1.1" 200 72
+2020-03-08 20:00:36,125 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2020-03-08 20:00:36,125 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:61365/session/c5f4d6e6e30c70604e88102e6e04db1e/element {"value": "\u5f85\u4ed8\u6b3e", "sessionId": "c5f4d6e6e30c70604e88102e6e04db1e", "using": "partial link text"}

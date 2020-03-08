@@ -1,12 +1,2 @@
-2019-12-28 16:47:37,018 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/element {"sessionId": "6399eec1cc9147b9191de8c1cd6e3434", "value": "//*[contains(text(),\"\u8ba2\u5355\u63d0\u4ea4\u6210\u529f\")]", "using": "xpath"}
-2019-12-28 16:47:37,033 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "POST /session/6399eec1cc9147b9191de8c1cd6e3434/element HTTP/1.1" 200 103
-2019-12-28 16:47:37,033 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
-2019-12-28 16:47:37,033 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/url {"url": "http://127.0.0.1/", "sessionId": "6399eec1cc9147b9191de8c1cd6e3434"}
-2019-12-28 16:47:39,410 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "POST /session/6399eec1cc9147b9191de8c1cd6e3434/url HTTP/1.1" 200 72
-2019-12-28 16:47:39,411 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
-2019-12-28 16:47:39,411 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434/element {"sessionId": "6399eec1cc9147b9191de8c1cd6e3434", "value": "\u6211\u7684\u8ba2\u5355", "using": "partial link text"}
-2019-12-28 16:47:39,414 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "POST /session/6399eec1cc9147b9191de8c1cd6e3434/element HTTP/1.1" 200 326
-2019-12-28 16:47:39,414 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
-2019-12-28 16:47:39,467 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - DELETE http://127.0.0.1:14014/session/6399eec1cc9147b9191de8c1cd6e3434 {"sessionId": "6399eec1cc9147b9191de8c1cd6e3434"}
-2019-12-28 16:47:40,070 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:14014 "DELETE /session/6399eec1cc9147b9191de8c1cd6e3434 HTTP/1.1" 200 72
-2019-12-28 16:47:40,070 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2020-03-08 20:00:52,574 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://127.0.0.1:61365 "POST /session/c5f4d6e6e30c70604e88102e6e04db1e/element HTTP/1.1" 200 382
+2020-03-08 20:00:52,575 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request

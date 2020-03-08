@@ -7,8 +7,9 @@ class SearchListPage(BasePage):
     def __init__(self):
         super().__init__()
 
-    def find_goods(self, kw):
-        temp = page.goods[0], page.goods[1].format(kw)
+    def find_goods(self, location_info):
+        # goods = By.XPATH, "//*[@class='shop_name2']/*[contains(text(),'{}')]"
+        temp = page.goods[0], page.goods[1].format(location_info)
         return self.find_element_func(temp)
 
 
